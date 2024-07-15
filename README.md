@@ -56,4 +56,4 @@ You can customize the tests by modifying the configuration files and scripts wit
 Contributions are welcome! If you have any improvements or new features to add, please fork the repository and create a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
