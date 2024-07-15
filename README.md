@@ -50,7 +50,7 @@ python run_tests.py
 This will initiate the test suite and display the results in the console.
 
 ### Customizing Tests
-You can customize the tests by modifying the configuration files and scripts within the core/ and models/ directories. Refer to the comments and documentation within the scripts for guidance on how to adjust parameters and add new tests.
+You can customize the tests by modifying the configuration files and scripts within the core/ and models/ directories. Refer to the comments and documentation within the scripts for guidance on adjusting parameters and adding new tests.
 
 ## Contributing
 Contributions are welcome! If you have any improvements or new features to add, please fork the repository and create a pull request.
